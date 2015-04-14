@@ -1,7 +1,7 @@
 # Free Scientific Research Web Services
 
 This is a list of web services for **collaborating on and publishing scientific research**.
-This services in this list are either **entirely free or have a free plan** (not a trial) that satisfies the description above (collaborative work and publishing).
+The services in this list are either **entirely free or have a free plan** (not a trial) that satisfies the description above (collaborative work and publishing).
 
 To add a service that matches the criteria above, please create a [pull request](https://github.com/Docollab/free-scientific-research-web-services/pulls) or send an e-mail to <support@docollab.com> .
 
