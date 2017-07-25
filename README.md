@@ -15,6 +15,7 @@ To add a service that matches the criteria above, please create a [pull request]
 * [Hivebench](https://www.hivebench.com) - Collaborative electronic lab notebook with online and in-house plans. Free online plan is limited to 10 team members, 1000 experiments and 10GB storage.
 * [LabArchives](http://www.labarchives.com/) - Electronic lab notebook with multiple subscription plans. Free plan limited to 25MB storage.
 * [Labfolder](https://www.labfolder.com) - Digital lab notebook with multiple subscription plans. Free plan has less group features, limited to 3 team members and 3GB sotrage per user.
+* [LiveLabSpace](https://livelab.space) - Version controlled research planning, collaboration, result reporting, experiment replication and public ledger for crowdfunded research. Public "open science" lab spaces are free.
 * [MyScienceWork](https://www.mysciencework.com/) - Scientific article publishing and promotion with free and premium plans. Free plan does not include access to content from all publishers, and restricts communication to users in the network.
 * [Open Notebook Science Network](http://onsnetwork.org/) - Free public storage for open scientific research.
 * [Open Science Framework](https://osf.io/) - Free collaborative research project management.
